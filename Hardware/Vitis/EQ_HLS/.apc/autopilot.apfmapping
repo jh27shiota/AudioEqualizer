@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="EQ.cpp" path="C:\Users\40rui\EQ\Vitis\EQ_HLS\EQ.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="TB.cpp" path="C:\Users\40rui\EQ\Vitis\EQ_HLS\TB.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

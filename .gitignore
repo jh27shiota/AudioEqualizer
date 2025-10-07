@@ -1,0 +1,55 @@
+# ===== Vivado build artifacts =====
+*.jou
+*.log
+*.str
+*.zip
+*.xsa
+*.bit
+*.bin
+*.dat
+*.rpt
+*.dcp
+*.pb
+*.tcl~
+*.wdb
+
+# Vivado generated directories
+*.cache/
+*.hw/
+*.gen/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.xil/
+.Xil/
+hw.cache/
+hw.gen/
+hw.hw/
+hw.runs/
+hw.ip_user_files/
+hw.sim/
+project_1.cache/
+project_1.hw/
+project_1.runs/
+project_1.sim/
+
+# ===== Vitis / HLS build artifacts =====
+.metadata/
+RemoteSystemsTempFiles/
+.vscode/
+*.log
+*.jou
+*.o
+*.obj
+*.exe
+*.elf
+*.bit
+*.bin
+*.zip
+
+# ===== General system files =====
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.swp
